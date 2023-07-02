@@ -1,0 +1,13 @@
+.container1 {
+    background-color: beige;
+    width: 1920px;
+    height: auto;
+    padding: 20px;
+    text-align: left;
+}
+.color {
+    color: rgb(0, 140, 255);
+}
+.name {
+    color: rgb(29, 71, 151);
+}
